@@ -23,7 +23,7 @@
             label = "FN";
             bindings = <
                 &mo FN    &kp W    &kp E
-                &kp D    &kp G    &rgb_ug RGB_TOG
+                &kp D    &kp G    &kp D
                 &bt BT_CLR    &bt BT_SEL 0    &bt BT_SEL 1
             >;
 
